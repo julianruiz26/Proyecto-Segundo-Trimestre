@@ -1,0 +1,90 @@
+body{background-attachment: fixed;
+	background-color:#000;
+	background-image: url('../images/dofns.jpg');}
+
+
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #AC0404;
+	}
+
+	li {
+	    float: left;
+	}
+
+	li a {
+	    display: block;
+	    color: white;
+	    text-align: center;
+	    padding: 14px 16px;
+	    text-decoration: none;
+	}
+
+	li a:hover {
+	    background-color: #D81C1C;
+	}
+	
+
+	#contenedor{
+		width: 1300px;
+		margin: auto;
+		margin-top: 20px;
+	}
+
+	h1{
+		font-size: 100px;
+		font-weight: bold;
+		font-family: diploma;
+		text-align: center;
+		color:#9F0D00 }
+
+	.title{
+		display: center;
+		margin:0% 0% 0% 0%;}
+
+	h2{
+		font-size: 40px;
+		color: #FFF; 
+		font-weight: normal;
+		font-family: Trajan Pro;
+		text-align: center;}
+
+	.container{
+		display: ;
+		color: #FFF;
+		margin:0% 0% 0% 0%;}
+
+	h3{
+		font-size: 20px;
+		color: #FFF; 
+		font-weight: normal;
+		font-family: Verdana;
+		text-align: justify;}
+
+	.caja{
+		margin: 0% 15% 0% 15%;
+		}
+
+	img{
+		margin:0% 0% 0% 18%;}
+
+.derechos{ text-align: center;
+ 			color:white;
+ 			}
+@media screen and (min-width: 475px) and (max-width: 815px){
+
+	body{background-size: 120%;}
+	h1{
+		font-size: 50px;}
+	h2{
+		font-size: 30px;}
+	h3{
+		font-size: 15px;}
+
+
+
+
+	}
